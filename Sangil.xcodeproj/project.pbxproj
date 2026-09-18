@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		95F2EC47305D9991002AED84 /* Sangil */ = {
+		9567206A305DA5D500A000AA /* New Group */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Sangil;
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		95F2EC3C305D9991002AED84 = {
 			isa = PBXGroup;
 			children = (
-				95F2EC47305D9991002AED84 /* Sangil */,
+				9567206A305DA5D500A000AA /* New Group */,
 				95F2EC46305D9991002AED84 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				95F2EC47305D9991002AED84 /* Sangil */,
+				9567206A305DA5D500A000AA /* New Group */,
 			);
 			name = Sangil;
 			packageProductDependencies = (
